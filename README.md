@@ -17,5 +17,4 @@ The summary of the datasets is as follows:
  - Consider 1000 files
  - Each file has length 1000 characters
  - Every file is generated randomly using english alphabet characters
- 
-( I will add more datasets, and real life datasets on 22nd Dec)
+
